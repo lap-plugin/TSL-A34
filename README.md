@@ -25,3 +25,7 @@
 > Visual LED Feedback:
 > The LIMIT indicator continuously tracks and monitors the limited output voltage.
 > The GAIN indicator keeps you safe from unwanted clipping by signaling an overloaded input amplifier. If the GAIN LED lights up during heavy audio peaks, simply dial back the input stage using the GAIN knob.
+
+
+
+<img width="1919" height="269" alt="akl-a34-preview" src="https://github.com/user-attachments/assets/af925543-1cb0-4eb3-beae-b7e93d07cd07" />
