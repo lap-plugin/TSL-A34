@@ -28,4 +28,5 @@
 
 
 
-<img width="1919" height="269" alt="akl-a34-preview" src="https://github.com/user-attachments/assets/af925543-1cb0-4eb3-beae-b7e93d07cd07" />
+<img width="3049" height="416" alt="akl-a34-preview" src="https://github.com/user-attachments/assets/f44582a9-c430-4376-bd88-8230fd4b10fd" />
+
